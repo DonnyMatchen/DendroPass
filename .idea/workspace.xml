@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36d8a356-ffe0-4b48-9367-da0df87678ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DendroPass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.13.3-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.13.3-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.13.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/DendroPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/gui/DendroFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/gui/MainGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/ExportableToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonBool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonFormattingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/resources/ui.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/resources/unifont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/resources/verdana.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/util/CharacterSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/util/SizeNumberFilter.java" afterDir="false" />
-    </list>
+    <list default="true" id="36d8a356-ffe0-4b48-9367-da0df87678ba" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default"
@@ -97,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661639801143</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1661873174686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873174686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
