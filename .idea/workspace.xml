@@ -1,39 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DendroPass:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36d8a356-ffe0-4b48-9367-da0df87678ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DendroPass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.13.3-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.13.3-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.13.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/DendroPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/gui/DendroFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/gui/MainGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/ExportableToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonBool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonFormattingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/json/JsonType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/resources/ui.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/resources/unifont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/resources/verdana.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/util/CharacterSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/donny/dendropass/util/SizeNumberFilter.java" afterDir="false" />
-    </list>
+    <list default="true" id="36d8a356-ffe0-4b48-9367-da0df87678ba" name="Changes" comment="ensured exit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,10 +23,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v0.1.0" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -64,21 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.donny.dendropass.DendroPass" />
@@ -97,6 +78,28 @@
       <option name="presentableId" value="Default" />
       <updated>1661639801143</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1661873174686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873174686</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1661873293279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873293279</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ensured exit">
+      <created>1662752983410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662752983410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +112,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="ensured exit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ensured exit" />
   </component>
 </project>
