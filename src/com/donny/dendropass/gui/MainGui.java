@@ -15,6 +15,8 @@ public class MainGui extends JFrame {
     public MainGui() {
         super("Dendrogram Password");
 
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+
         //Draw Gui
         {
             JLabel a = new JLabel("Length (Bytes)");
